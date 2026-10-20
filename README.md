@@ -5,11 +5,9 @@
 
 ### Backend Developer | DSA Enthusiast | Open-Source Contributor
 
-Engineering student passionate about building scalable backend systems, solving challenging problems, and creating useful software.
+Engineering student passionate about backend development, problem-solving, and building reliable software.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Suhas1010-181717?style=for-the-badge&logo=github)](https://github.com/Suhas1010)
-[![LeetCode](https://img.shields.io/badge/LeetCode-suhas__hatti01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/suhas_hatti01/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-suhas__h-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/suhas_h)
 
 </div>
 
@@ -20,9 +18,9 @@ Engineering student passionate about building scalable backend systems, solving 
 - 🎓 Engineering student specializing in Computer Science and Design.
 - 💻 Practicing Data Structures and Algorithms using C++.
 - ⚙️ Interested in backend development, REST APIs, databases, and system design.
-- 🌐 Building full-stack applications and exploring modern web technologies.
+- 🌐 Exploring full-stack development and modern web technologies.
 - 🌱 Contributing to open-source projects and learning through real-world codebases.
-- 🤖 Interested in exploring Large Language Models (LLMs), Generative AI, and AI-powered applications.
+- 🤖 Interested in Large Language Models (LLMs), Generative AI, and AI-powered applications.
 - 🎯 Focused on writing clean, maintainable, and efficient code.
 
 ---
@@ -44,7 +42,7 @@ Engineering student passionate about building scalable backend systems, solving 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Databases
@@ -71,102 +69,13 @@ Engineering student passionate about building scalable backend systems, solving 
 
 ---
 
-## 💻 Coding Profiles
+## 💻 LeetCode Stats
 
 <div align="center">
 
-### LeetCode
-
 [![LeetCode Stats](https://leetcard.jacoblin.cool/suhas_hatti01?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/suhas_hatti01/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/suhas_hatti01/)
-
-### CodeChef
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/suhas_h)
-
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### StayOS — PG & Hostel Management Backend
-
-A backend application designed to manage properties, rooms, tenants, rent records, and complaints.
-
-**Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, JWT
-
-- RESTful API architecture.
-- Authentication and authorization.
-- Property, room, and tenant management.
-- Rent and complaint management.
-- Database indexing and pagination.
-- Input validation and structured error handling.
-
-🔗 [View Repository](https://github.com/Suhas1010/StayOS)
-
-### Diabetes Risk Predictor
-
-A web application demonstrating frontend and backend integration through an interactive interface and a prediction API.
-
-**Tech Stack:** React, Python, FastAPI
-
-- Interactive user interface.
-- Frontend and backend API integration.
-- API-based prediction workflow.
-
-### Simon Says Game
-
-A browser-based memory game built to practice frontend development fundamentals.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-- DOM manipulation and event handling.
-- Game logic and state management.
-- Interactive user experience.
-
----
-
-## 🌍 Open Source Contributions
-
-I enjoy exploring existing codebases, improving code quality, writing tests, and collaborating with developers.
-
-### Open Source Starter Lab
-
-- Added meaningful test coverage for the welcome plugin.
-- Verified exact output and message ordering.
-- Used `try...finally` to restore `console.log` safely.
-- Validated changes using the project's check command.
-- Contributed merged pull requests.
-
-**Areas of interest:** Backend systems, testing, developer tooling, and maintainable software.
-
-🔗 [Explore My Repositories](https://github.com/Suhas1010?tab=repositories)
-
----
-
-## 🧠 Data Structures & Algorithms
-
-I practice DSA using C++, focusing on problem-solving patterns and algorithmic efficiency.
-
-**Topics I practice:**
-
-- Arrays and Strings
-- Hashing
-- Two Pointers
-- Sliding Window
-- Prefix Sums
-- Binary Search
-- Stacks and Queues
-- Linked Lists
-- Trees and Binary Trees
-- Recursion and Backtracking
-- Graphs and Dynamic Programming
-
-🔗 [LeetCode](https://leetcode.com/u/suhas_hatti01/) | [CodeChef](https://www.codechef.com/users/suhas_h)
-
----
 
 ## 📚 Currently Learning & Exploring
 
@@ -194,16 +103,6 @@ I practice DSA using C++, focusing on problem-solving patterns and algorithmic e
 </div>
 
 ---
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Suhas1010-181717?style=for-the-badge&logo=github)](https://github.com/Suhas1010)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/suhas_hatti01/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/suhas_h)
-
-</div>
 
 <div align="center">
 
