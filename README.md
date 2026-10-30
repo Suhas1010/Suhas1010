@@ -1,13 +1,14 @@
-
-<div align="center">
+ <div align="center">
 
 # Hey, I'm Suhas 👋
 
-### Backend Developer | DSA Enthusiast | Open-Source Contributor
+### Backend Developer | DSA Enthusiast | Problem Solver
 
 Engineering student passionate about backend development, problem-solving, and building reliable software.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Suhas1010-181717?style=for-the-badge&logo=github)](https://github.com/Suhas1010)
+[![LeetCode](https://img.shields.io/badge/LeetCode-suhas__hatti01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/suhas_hatti01/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/suhas_h)
 
 </div>
 
@@ -19,8 +20,7 @@ Engineering student passionate about backend development, problem-solving, and b
 - 💻 Practicing Data Structures and Algorithms using C++.
 - ⚙️ Interested in backend development, REST APIs, databases, and system design.
 - 🌐 Exploring full-stack development and modern web technologies.
-- 🌱 Contributing to open-source projects and learning through real-world codebases.
-- 🤖 Interested in Large Language Models (LLMs), Generative AI, and AI-powered applications.
+- 🚀 Building projects and learning through real-world software development.
 - 🎯 Focused on writing clean, maintainable, and efficient code.
 
 ---
@@ -69,13 +69,25 @@ Engineering student passionate about backend development, problem-solving, and b
 
 ---
 
-## 💻 LeetCode Stats
+## 💻 Competitive Programming
+
+### LeetCode
 
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/suhas_hatti01?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/suhas_hatti01/)
 
 </div>
+
+### CodeChef
+
+<div align="center">
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Visit%20Profile-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/suhas_h)
+
+</div>
+
+---
 
 ## 📚 Currently Learning & Exploring
 
@@ -85,8 +97,6 @@ Engineering student passionate about backend development, problem-solving, and b
 - PostgreSQL and relational database concepts.
 - Database indexing and query optimization.
 - System design and scalable backend architecture.
-- Large Language Models (LLMs) and Generative AI.
-- Retrieval-Augmented Generation (RAG) and AI-powered applications.
 
 ---
 
